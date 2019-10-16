@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{projects.html}, nofooter  
+==Meiyi Li
+
+== Effects of the Increasing Penetration of Photovoltaic Power
+Collaborators: State Grid Corporation of China\n
+Intern Electrical Engineer\n
+Sep. 2018-Nov. 2018 \n
+
+~~~
+{Featured Publications:}
+1.Y Chen, Z Liu, *Meiyi LI*. Evaluation Index and Method of Active Distribution Network Based on Multi-source Data. \n 
+Accepted by Electrical Automation(Chinese Core Journal) \[[paper9.pdf pdf]\]
+~~~
+
+
+- Led a team of 3 students and established the simulation platform of the grid-connected photovoltaic power system of the Songjiang District of Shanghai.
+- Calculated and analyzed the overvoltage and high impact current with the increase of penetration of photovoltaic power.
+~~~
+{}{img_left}{photos/intern.jpg}{alt text}{576}{432}{}
+~~~
+
+== Key Technologies Study on Control and Protection of Multi-microgrid
+Collaborators: Electric Power Research Institute of Guangxi Province\n
+Dec. 2016-Dec. 2018\n
+- Established a simulation platform of the microgrid in Guangxi No.1 middle school including three photovoltaic plants, a wind generator, three storage batteries, and a diesel generator, et al. 
+- Analyzed the amplitude-frequency and phase-frequency characteristics of controllers and phase-locked loops based on impedance-based stability theory. 
+- Designed and implemented an automated software tool to determine the stability of the microgrid based on MATLAB.
+~~~
+{}{img_left}{photos/micro.jpg}{alt text}{1000}{624}{}
+~~~
+
+
+

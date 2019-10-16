@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Meiyi LI 
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{179}{173}{}
+Research Assistant\n [http://eei.sjtu.edu.cn/ Electrical Engineering] \n[http://en.sjtu.edu.cn Shanghai Jiao Tong University (SJTU)]\n
+Email: /limeiyi@sjtu\.edu\.cn/ 
+~~~
+
+== Brief Biography
+I am a graduate student in [http://eei.sjtu.edu.cn/ Electrical Engineering] from [http://en.sjtu.edu.cn Shanghai Jiao Tong University (SJTU)]. I hold a B.S. degree in [http://old.moe.gov.cn//publicfiles/business/htmlfiles/moe/s3860/201102/115066.html Outstanding Engineers Honor Class], Electrical Engineering and Automation, SJTU. I work on various problems in modeling, control and stability analysis of distributed generators.
+
+=== Publications 
+
+. A Dual-Adaptivity Inertia Control Strategy for Virtual Synchronous Generator. \n 
+*Meiyi LI*, W Huang, N Tai, Liuqing Yang \n 
+Accepted by *IEEE Transactions on Power Systems* \[[paper1.pdf pdf]\]
+. Transient Behavior Analysis of VSG-IIDG During Disturbances Considering the Current Limit Unit. \n 
+*Meiyi LI*, W Huang, N Tai \n 
+Won *Prize Conference Paper (4 out of 900, the only Chinese-student winner in the past several years)* at *2019 IEEE Power and Energy Society General Meeting* \[[paper2.pdf pdf]\]
+. Virtual Power-angle Stability of VSG-IIDG During Voltage Disturbance Considering the Current Limit Unit. \n 
+*Meiyi LI*, W Huang, N Tai, Vassilios G Agelidis \n 
+Under review by *IEEE Transactions on Power Systems*
+. Stability Analysis of the VSG-IIDG in the Microgrid: A Review. \n 
+*Meiyi LI*, W Huang, N Tai, D Duan \n 
+Under review by *Applied Energy* 
+. Lyapunov-Based Large Signal Stability Assessment for VSG Controlled Inverter-Interfaced Distributed Generators. \n 
+*Meiyi LI*, W Huang, N Tai \n 
+Published on Energies \[[paper5.pdf pdf]\]
+. Control Strategy for Inverter Interfaced Distributed Generator based on Virtual Synchronous Generator using Adaptive Inertia under Frequency Disturbances. \n
+ *Meiyi LI*, W Huang, N Tai \n 
+ Accepted by Power System Technology (Chinese EI) \[[paper6.pdf pdf]\]
+. Surge Current Calculation and Limit Strategy of the IIDG during Loop Closing Operation in Distribution Networks. \n 
+*Meiyi LI*, W Huang, N Tai \n 
+Accepted by 2019 IEEE Sustainable Power & Energy Conference \[[paper7.pdf pdf]\]
+. Analysis and Limit Strategy of the Surge Current Caused by Closing-Loop Operation in the DG dominated Distribution Network. \n 
+*Meiyi LI*, W Huang, N Tai \n 
+Accepted by 2019 China Electrotechnical Society Academic Annual Conference \[[paper8.pdf pdf]\]
+. Evaluation Index and Method of Active Distribution Network Based on Multi-source Data. \n 
+Y Chen, Z Liu, *Meiyi LI* \n 
+Accepted by Electrical Automation(Chinese Core Journal) \[[paper9.pdf pdf]\]
+. Large Signal Stability of Autonomous Operation of A VSG-IIDG: Modeling and Analysis. \n 
+*Meiyi LI*, W Huang, N Tai \n 
+Working paper
+
+== News
+
+- (Feb '19) "[http://en.sjtu.edu.cn/news/sjtu-master-won-ieee-pes-gm-2019-prize-conference-paper/SJTU Master Won IEEE PES GM 2019 Prize Conference Paper]," by Zhang Qianqian /(SJTU News)/ \n
+ 
+
+== Selected Honors
+- National Scholarship for Outstanding Academic Achievements, Top *1*%, *Top 1 among female students*
+- Outstanding Graduates of Shanghai,Top *5*%
+- Merit student of SJTU,Top *3*%
+
+== Curriculum Vitae
+[cv.pdf Meiyi LI].
+

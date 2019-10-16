@@ -1,0 +1,141 @@
+# jemdoc: menu{MENU}{research.html}, nofooter  
+==Meiyi Li
+
+~~~
+{}{img_left}{photos/keyword.jpeg}{alt text}{344}{204}{}
+*Theory*:\n
+Control theory (Small-signal modeling; Characteristics root; Transfer function; Dynamics response)\n
+Lyapunov-based stability\n
+Impedance-based stability\n
+*Applications*:\n
+Inverter-Interfaced Distributed Generators(IIDG)\n
+Photovoltaic power system\n
+Active distributed network\n
+Microgrids\n
+~~~
+
+== Adaptive Control of the Inverter-Interfaced Distributed Generator (IIDG)
+Research Assistant (RA),Key Laboratory of Control of Power Transmission and Conversion, Ministry of Education, Shanghai \n
+Advisor: [https://www.engr.colostate.edu/~lqyang/ Prof. Liuqing Yang] (Professor, Department of Electrical and Computer Engineering, Colorado State University; IEEE Fellow)
+
+~~~
+{Featured Publications:}
+1.*Meiyi LI*, W Huang, N Tai, Liuqing Yang. A Dual-Adaptivity Inertia Control Strategy for Virtual Synchronous Generator. \n
+ Accepted by *IEEE Transactions on Power Systems* \[[paper1.pdf pdf]\]
+~~~
+
+- Proposed a dual-adaptivity inertia control strategy for the IIDG based on the virtual synchronous generator to 
+: {1)offer responsive and stable frequency support.}
+: {2)achieve the balance between power regulation and frequency regulation according to different operating conditions.}
+- Derived transfer functions of the IIDG power and angular frequency.
+- Analyzed the response characteristics (overshoot and resettling time) of the IIDG output power and frequency.
+- Proposed an assessment method considering the cumulative effect of the output deviation and its duration to 
+: {1)cope with the tradeoff between speed and tracking accuracy.}
+: {2)universally reflect the dynamic performance of power and frequency.}
+
+
+~~~
+{}{img_left}{photos/vsgcontrol1.jpeg}{alt text}{987}{214}{}
+~~~
+
+== Virtual Power Angle Stability of the Inverter-interfaced Distributed Generator
+
+
+RA, Department of Electrical Engineering, SJTU\n
+Advisor: [https://www.dtu.dk/english/service/phonebook/person?id=119101&tab=2&qt=dtupublicationquery Prof. Vassilios G Agelidis] (Professor, Electrical Engineering, Technical University of Denmark; IEEE Fellow)\n
+
+
+~~~
+{Featured Publications:}
+1.*Meiyi LI*, W Huang, N Tai, Vassilios G Agelidis. Virtual Power-angle Stability of VSG-IIDG During Voltage Disturbance Considering the Current Limit Unit. \n 
+Under review by *IEEE Transactions on Power Systems*
+~~~
+
+- Derived the virtual power-angle characteristics of the IIDG considering saturation of the inner loop current controller. 
+- Analyzed the effects of voltage regulation on the stability of the IIDG control system.
+- Verified the theoretical analysis based on a real-time controller hardware-in-loop experiment platform on RTDS.
+
+
+
+== Lyapunov-based Stability Analysis of the Virtual Synchronous Generator
+RA,Research Center for Big Data and Artificial Intelligence Engineering and Technologies, Shanghai\n
+Advisor: [https://scholar.google.com/citations?user=FTLNXX8AAAAJ&hl=zh-CN Prof. Robert Caiming Qiu] (Professor, Department of Electrical Engineering, Shanghai Jiao Tong University (SJTU); IEEE Fellow)
+
+~~~
+{Featured Publications:}
+1.*Meiyi LI*, W Huang, N Tai. Lyapunov-Based Large Signal Stability Assessment for VSG Controlled Inverter-Interfaced Distributed Generators. \n 
+Published on Energies \[[paper5.pdf pdf]\]
+~~~
+- Established the non-linear mathematical model of a virtual synchronous generator controlled IIDG system. 
+- Derived the Lyapunov energy function based on Popov’s theory to determine the stability domain of the IIDG system.
+- Established simulation models based on PSCAD/EMTDC to verify the stability analysis.
+
+~~~
+{}{img_left}{photos/large2.jpg}{alt text}{1020}{230}{}
+~~~
+
+
+
+
+
+== Stability Mechanism of the Inverter-interfaced Distributed Generator
+
+RA, Department of Electrical Engineering, SJTU\n
+Advisor: [http://eei.sjtu.edu.cn/en/Show.aspx?info_id=423&info_lb=326&flag=282 Prof. Nengling Tai] (Professor and Chair, Department of Electrical Engineering, SJTU)\n
+[http://www.uwyo.edu/electrical/faculty-staff/dongliang-duan/ Prof. Dongliang Duan](Associate Professor, Electrical & Computer Engineering, University of Wyoming)
+
+
+
+~~~
+{Featured Publications:}
+1.*Meiyi LI*, W Huang, N Tai. Transient Behavior Analysis of VSG-IIDG During Disturbances Considering the Current Limit Unit. \n 
+Won *Prize Conference Paper* (*4\/900*, *the only Chinese-student winner in the past several years*) at *2019 IEEE Power and Energy Society General Meeting* \[[paper2.pdf pdf]\] \n
+2.*Meiyi LI*, W Huang, N Tai, D Duan. Stability Analysis of the VSG-IIDG in the Microgrid: A Review. \n 
+Under review by *Applied Energy* \n
+3.*Meiyi LI*, W Huang, N Tai.Control Strategy for Inverter Interfaced Distributed Generator based on Virtual Synchronous Generator using Adaptive Inertia under Frequency Disturbances. \n
+Accepted by Power System Technology (Chinese EI) \[[paper6.pdf pdf]\] \n
+4.*Meiyi LI*, W Huang, N Tai.Large Signal Stability of Autonomous Operation of A VSG-IIDG: Modeling and Analysis. \n 
+Working paper
+~~~
+
+
+~~~
+{Patents:}
+1.PCT\/CN2019\/094149 \n
+2.PCT\/CN2019\/094150 \n
+~~~
+
+
+- Established the small-signal linearized model of the IIDG system with a VSG-IIDG and a local load.
+- Calculated the operation area of parameters according to 
+: {1)phase and gain margin.}
+: {2)system capacity.}
+: {3)standards in accordance with power quality.}
+: {4)characteristic roots.}
+- Revealed the typical instabilities and their mechanism of the IIDG system.
+
+
+
+== Surge Current of the IIDG during Closing-Loop Operation
+
+RA, Department of Electrical Engineering, SJTU\n
+Advisor: [http://eei.sjtu.edu.cn/en/Show.aspx?info_id=423&info_lb=326&flag=282 Prof. Nengling Tai] (Professor and Chair, Department of Electrical Engineering, SJTU)\n
+[http://www.uwyo.edu/electrical/faculty-staff/dongliang-duan/ Prof. Dongliang Duan](Associate Professor, Electrical & Computer Engineering, University of Wyoming)
+
+
+~~~
+{Featured Publications:}
+1.*Meiyi LI*, W Huang, N Tai. Surge Current Calculation and Limit Strategy of the IIDG during Loop Closing Operation in Distribution Networks. \n 
+Accepted by 2019 IEEE Sustainable Power & Energy Conference \[[paper7.pdf pdf]\] \n
+2.*Meiyi LI*, W Huang, N Tai.Analysis and Limit Strategy of the Surge Current Caused by Closing-Loop Operation in the DG dominated Distribution Network. \n 
+Accepted by 2019 China Electrotechnical Society Academic Annual Conference \[[paper8.pdf pdf]\]
+~~~
+
+
+
+- Presented an algorism for calculating the surge current of voltage source inverters and current source inverters.
+- Proposed a control scheme to limit the surge current of the IIDG during closing-loop operation in the distributed network.
+
+~~~
+{}{img_left}{photos/limit.jpg}{alt text}{925}{450}{}
+~~~
